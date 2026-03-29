@@ -1,0 +1,11 @@
+Bias in AI occurs when models produce unfair outcomes due to skewed training data.
+To mitigate bias, use diverse datasets and audit models regularly.
+
+Fairness in AI means ensuring equal treatment across all groups.
+It is important in hiring, lending, and healthcare applications.
+
+Privacy in AI involves protecting user data and following regulations.
+Sensitive information must not be misused.
+
+Transparency means AI decisions should be explainable.
+Users should understand why a decision was made.
